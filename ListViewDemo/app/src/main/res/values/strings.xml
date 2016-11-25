@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">ListViewDemo</string>
-    <string name="app_qx">全选</string>
-    <string name="app_yc">隐藏已选</string>
-    <string name="app_qbx">全不选</string>
-
-</resources>
